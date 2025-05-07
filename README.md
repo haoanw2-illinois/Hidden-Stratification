@@ -4,6 +4,7 @@
 
 This repository reproduces key findings from the paper:
 **“Hidden Stratification Causes Clinically Meaningful Failures in Medical Imaging”**
+
 NeurIPS ML4H 2019 · [arXiv link](https://arxiv.org/abs/1909.12475)
 @article{oakden2019hidden,
   title={Hidden stratification causes clinically meaningful failures in machine learning for medical imaging},
