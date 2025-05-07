@@ -13,6 +13,7 @@ NeurIPS ML4H 2019 · [arXiv link](https://arxiv.org/abs/1909.12475)
   journal={arXiv preprint arXiv:1909.12475},
   year={2019}
 }
+```
 
 The paper explores *hidden stratification* — clinically important but unlabeled subclasses within standard diagnostic categories — and how they can silently degrade model reliability in medical imaging. This repo attempts to replicate the findings using two datasets: **CXR14** and **MURA**.
 
