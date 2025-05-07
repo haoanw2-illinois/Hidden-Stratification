@@ -5,7 +5,12 @@
 This repository reproduces key findings from the paper:
 **“Hidden Stratification Causes Clinically Meaningful Failures in Medical Imaging”**
 NeurIPS ML4H 2019 · [arXiv link](https://arxiv.org/abs/1909.12475)
-**Author Reproduction**: [Presentation Slides](https://drive.google.com/file/d/19RrcPtMNasxUfp-YbRjz7eq4_-kWUY6l/view?usp=drive_link)
+@article{oakden2019hidden,
+  title={Hidden stratification causes clinically meaningful failures in machine learning for medical imaging},
+  author={Oakden-Rayner, Luke and Beam, Andrew L and Palmer, Lyle J},
+  journal={arXiv preprint arXiv:1909.12475},
+  year={2019}
+}
 
 The paper explores *hidden stratification* — clinically important but unlabeled subclasses within standard diagnostic categories — and how they can silently degrade model reliability in medical imaging. This repo attempts to replicate the findings using two datasets: **CXR14** and **MURA**.
 
